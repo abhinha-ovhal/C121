@@ -1,0 +1,41 @@
+.item_container{
+    width: 50%;
+    border: 5px #789461 solid;
+    border-radius: 30px;
+}
+
+.text{
+    color: #DBE7C9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+.result{
+    color: #DBE7C9;
+    font-weight: 900;
+    font-size: 24px;
+    border: black 3px solid;
+    background: #789461
+}
+
+hr{
+    height: 20px;
+    color: black;
+}
+.footer{
+    bottom: 0;
+    position: fixed;
+    background-color: #50623A;
+    color: #DBE7C9;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    font-weight: bold;
+    font-size: 20px;
+}
+label{
+    color: #DBE7C9;
+}
+hr{
+    color: #DBE7C9;
+}
